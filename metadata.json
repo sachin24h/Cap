@@ -1,0 +1,8 @@
+{
+  "name": "CapGenius AI",
+  "description": "A professional-grade AI video caption generator that creates, translates, and styles captions automatically using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
